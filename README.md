@@ -1,3 +1,14 @@
+Project Screenshots
+
+1. Virtual Network Overview
+   <img width="1917" height="912" alt="VNet SS" src="https://github.com/user-attachments/assets/aca071c6-9a32-4f5a-a40e-ac3614a077c9" />
+
+2. Subnet Configuration
+   <img width="1917" height="906" alt="subnet Configuration" src="https://github.com/user-attachments/assets/a4000841-b2e9-4216-aff8-5adef24c2e1f" />
+
+3. Network Security Group Rules
+   <img width="1190" height="887" alt="Inbound Security Rules" src="https://github.com/user-attachments/assets/0bfa5e1a-a67c-410f-8f44-d0babac2b3ce" />
+
 # Azure Networking & Security
 
 ## Project Overview
